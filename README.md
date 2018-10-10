@@ -1,8 +1,9 @@
 # Java Module 1: Objects and Classes
 
-Note: This markdown file labels each code segment as java, which should make it render with proper syntax highlighting in the web view.
+**Name:** FILL IN YOUR NAME HERE
 
-*You do NOT need to submit your java source files for this assignment.*
+Note: This markdown file labels each code segment as java, which should make it render with proper syntax highlighting in the web view. *You do NOT need to submit your java source files for this assignment.*
+
 
 ## Exercise 1
 Code:
