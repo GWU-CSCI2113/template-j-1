@@ -85,3 +85,16 @@ Output:
 ```
 
 ```
+
+## Exercise 7
+Code:
+```java
+
+
+
+```
+
+Output:
+```
+
+```
