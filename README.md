@@ -1,6 +1,8 @@
 # Java Module 1: Objects and Classes
 
-**Name:** FILL IN YOUR NAME HERE
+**Your Name** FILL YOUR NAME HERE
+ - your_email@gwu.edu
+ - your github username
 
 Note: This markdown file labels each code segment as java, which should make it render with proper syntax highlighting in the web view. *You do NOT need to submit your java source files for this assignment.*
 
